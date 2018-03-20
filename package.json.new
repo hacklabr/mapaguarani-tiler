@@ -1,0 +1,13 @@
+{
+  "name": "mapaguarani-tiler",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "request": "^2.62.0",
+    "underscore": "^1.8.3",
+    "windshaft-cartodb": "^2.79.0"
+  }
+}
